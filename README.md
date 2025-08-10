@@ -43,4 +43,4 @@ Profitability:
 High profit margins due to controlled production costs relative to sales revenue.
 
 ## DashBoard
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/nishantdalvi05/Adventure-Dashboard/blob/main/Dashboard.png)
