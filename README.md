@@ -41,3 +41,6 @@ Highest sales are concentrated in a major region with $9,389,790K, indicating a 
 Profitability:
 
 High profit margins due to controlled production costs relative to sales revenue.
+
+## DashBoard
+![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
